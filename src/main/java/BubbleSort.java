@@ -27,8 +27,6 @@ public class BubbleSort {
                     isChange = true;
                 }
             }
-
-//            System.out.println(limit + " " + Arrays.toString(arr));
         } while (isChange);
     }
 
@@ -51,8 +49,6 @@ public class BubbleSort {
                     isChange = true;
                 }
             }
-
-//            System.out.println(limit + " " + Arrays.toString(arr));
         } while (isChange);
     }
 
