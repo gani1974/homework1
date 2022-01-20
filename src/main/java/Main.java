@@ -3,12 +3,6 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-//        Notebook notebook = new Notebook();
-
-//        for (int i = 0; i < 10; i++) {
-//            Notebook notebook = new Notebook();
-//        }
-
         final int SIZE = 10000;
         Notebook[] arr = MyArr.getArray(SIZE);
 //        for (int i = 0; i < arr.length; i++) {
